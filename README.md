@@ -13,8 +13,7 @@ python爬虫爬取网页图片教程
 
 目标网站：http://pic.netbian.com
 
-
-首先
+教程
 -
 
     分析网站！！！
@@ -58,6 +57,8 @@ python爬虫爬取网页图片教程
     #保存图片
     with open("娑娜.jpg",'wb') as f:
             f.write(r)
+            
+    #你的娑娜请签收！！！   (>!< )
             
   
     
